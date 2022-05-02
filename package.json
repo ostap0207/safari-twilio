@@ -1,0 +1,26 @@
+{
+  "name": "twilio-ios-safari",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salemove/twilio-ios-safari.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salemove/twilio-ios-safari/issues"
+  },
+  "homepage": "https://github.com/salemove/twilio-ios-safari#readme",
+  "devDependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.1.1",
+    "@twilio/voice-sdk": "^2.1.1"
+  }
+}
